@@ -1,5 +1,7 @@
 # Stormstout Contract
 
+![maxresdefault](https://user-images.githubusercontent.com/3152452/192136997-c064a433-102d-49e2-a3c4-729b9ef90581.jpeg)
+
 ## *Getting started*
 
 1. Initialize the aptos configuration, if you don't already have it
